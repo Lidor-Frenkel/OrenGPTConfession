@@ -1,0 +1,21 @@
+Aviv: 
+Dear GitHub Team,
+
+I am writing to express my utmost frustration with your platform and the recent changes that have severely impacted my workflow. As a developer who relies heavily on GitHub for version control and collaboration, the recent updates have been nothing short of disastrous.
+
+Firstly, the new user interface is clunky and unintuitive. It feels like you've sacrificed usability for a sleeker design that serves no practical purpose. Features that used to be easily accessible are now buried under layers of unnecessary menus and confusing icons.
+
+Secondly, your support for open-source projects seems to be dwindling. I used to appreciate GitHub's commitment to the community, but lately, it feels like you're prioritizing corporate interests over the needs of independent developers and small teams. The changes in pricing and the way you handle issues and pull requests have left many of us feeling neglected and undervalued.
+
+Thirdly, the constant downtime and service interruptions are unacceptable. GitHub used to be reliable, but now it seems like every other day, I encounter issues with repository access, pull requests not syncing properly, or even just basic browsing of code. This is affecting my productivity and causing unnecessary delays in my projects.
+
+In conclusion, I urge you to reconsider your recent decisions and prioritize the needs of your users once again. GitHub used to be a platform that developers could rely on without hesitation. Now, it's becoming increasingly frustrating to use, and many of us are considering alternatives. Please listen to the feedback from your community and make the necessary changes before it's too late.
+
+Sincerely,
+Aviv
+
+
+
+
+
+
